@@ -1,6 +1,4 @@
 /**
- * Copyright (c) 2021
- *
  * The Vehicles.js is a superclass in the Main.js Program.
  * 
  * @author Wajd Mariam <wajd.mariam@mths.ca>
