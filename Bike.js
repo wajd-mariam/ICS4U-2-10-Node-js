@@ -1,6 +1,4 @@
 /**
- * Copyright (c) 2021
- *
  * The Bike.js is a subclass for Vehicles.java file.
  * 
  * @author Wajd Mariam <wajd.mariam@mths.ca>
