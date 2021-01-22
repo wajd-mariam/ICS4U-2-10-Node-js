@@ -1,5 +1,4 @@
 /**
- * Copyright (c) 2021
  *
  * The Truck.js is a subclass for Vehicles.java file.
  * 
